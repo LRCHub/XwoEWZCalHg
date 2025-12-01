@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏に君を待ちながら",
+  "base_artist": "鳴瀬しろは(CV.小原好美)",
+  "createdAt": "2025-12-01T12:01:23.045053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏に君を待ちながら",
+      "artist": "鳴瀬しろは(CV.小原好美)",
+      "has_synced": true,
+      "path": "select/01_夏に君を待ちながら_鳴瀬しろは(CV.小原好美).lrc"
+    }
+  ]
+}
